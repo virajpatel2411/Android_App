@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "944139277013",
+    "firebase_url": "https://androidproject-311a3.firebaseio.com",
+    "project_id": "androidproject-311a3",
+    "storage_bucket": "androidproject-311a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944139277013:android:e076af6abfa20d57",
+        "android_client_info": {
+          "package_name": "royal.com.artofliving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944139277013-dq998jnfervvi656pdfc51e4agddl6ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "royal.com.artofliving",
+            "certificate_hash": "c6a7ff74655ad0d58bfb56368e6758cad13004b5"
+          }
+        },
+        {
+          "client_id": "944139277013-urj41j6ch6tdshhum7psnehagious41b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmMRAP-MM5EdD4lF83NrprrRS6UFlCGO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944139277013-urj41j6ch6tdshhum7psnehagious41b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+}
